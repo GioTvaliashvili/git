@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+    font-weight: bolder;
+    background-color: black;
+}
+h2{
+    color: rgb(5, 206, 5);
+    font-weight: bolder;
+    background-color: black;
+}
+body{
+    background-color: red;
+}
